@@ -50,6 +50,7 @@ From the Crosswork UI, select **Network Automation --> Playbook List**, and clic
 <a name="run_playbook"></a>
 # Run Playbook
 * From the Crosswork UI, select **Network Automation --> Run Playbook --> My Playbooks**, and select the playbook **l3vpn_and_kpi**
+* In the **Parameters** step of the **Run Playbook** workflow, choose **Upload** parameters. Modify the values if required before executing the playbook
 
 ![image](https://user-images.githubusercontent.com/12874987/111923688-95844f80-8a5d-11eb-8e93-93fbb026d218.png)
 
