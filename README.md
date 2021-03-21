@@ -29,6 +29,3 @@ The use case makes health monitoring of the NSO service a seemless part of the l
     - Deploying of the l3vpn service
     - Creation of a KPI profile with the KPI's relevant for the l3vpn service in Crosswork Health Insights.
     - Configuration of the KPIs on the endpoints of the l3vpn service which results in monitoring of the KPIs in Crosswork Health Insights
-7. 	asd
-8. 	asda
-9. 	das
