@@ -31,18 +31,18 @@ The use case makes health monitoring of the NSO service a seemless part of the l
     - Configuration of the KPIs on the endpoints of the l3vpn service which results in monitoring of the KPIs in Crosswork Health Insights
 
 <a name="edit_nso_service_path"></a>
-# Edit NSO_SERVICE_PATH
+# ***Edit NSO_SERVICE_PATH***
 ![na-102](https://user-images.githubusercontent.com/12874987/111919200-fa33b000-8a45-11eb-9ed7-9b9ea8826851.jpg)
 
 ![na-101](https://user-images.githubusercontent.com/12874987/111919199-f738bf80-8a45-11eb-8174-0bda80af5b98.jpg)
 
 <a name="import_playbook_and_play"></a>
 # Import Playbook and Play
-### Import Play
+### ***Import Play***
 From the Crosswork UI, select **Network Automation --> Play List**, and click on import plays
 ![image](https://user-images.githubusercontent.com/12874987/111920571-f7888900-8a4c-11eb-8b00-306c7c84853e.png)
 
-### Import Playbook
+### ***Import Playbook***
 From the Crosswork UI, select **Network Automation --> Playbook List**, and click on import playbook
 ![image](https://user-images.githubusercontent.com/12874987/111922300-471f8280-8a56-11eb-9227-e7e6cb07b018.png)
 
