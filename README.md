@@ -32,7 +32,7 @@ The use case makes health monitoring of the NSO service a seemless part of the l
 
 <a name="edit_nso_service_path"></a>
 # Edit NSO_SERVICE_PATH
-  [image](https://user-images.githubusercontent.com/12874987/111919061-3a466300-8a45-11eb-8674-e4694b726867.png)
-  [image](https://user-images.githubusercontent.com/12874987/111919073-492d1580-8a45-11eb-9939-3eb9a8accae5.png)
+  add[image](https://user-images.githubusercontent.com/12874987/111919061-3a466300-8a45-11eb-8674-e4694b726867.png)
+  asdasd[image](https://user-images.githubusercontent.com/12874987/111919073-492d1580-8a45-11eb-9939-3eb9a8accae5.png)
 
 
