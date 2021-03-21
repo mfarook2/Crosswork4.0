@@ -32,5 +32,6 @@ The use case makes health monitoring of the NSO service a seemless part of the l
 
 <a name="edit_nso_service_path"></a>
 # Edit NSO_SERVICE_PATH
-Screen Shot 2021-03-21 at 12.35.14 PM![image](https://user-images.githubusercontent.com/12874987/111918365-0158bf00-8a42-11eb-9a56-532a6a3fdeaf.png)
+
+Screen Shot 2021-03-21 at 12.38.56 PM![image](https://user-images.githubusercontent.com/12874987/111918476-775d2600-8a42-11eb-9c9e-169425067e6f.png)
 
