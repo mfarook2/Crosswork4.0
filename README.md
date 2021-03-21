@@ -9,11 +9,11 @@ The use case makes health monitoring of the NSO service a seemless part of the l
 ## Installation
 1. 	Install the following NSO packages in the ncs-run directory on the nso server
 
-| NSO Service Package  | Description |
-| ------------- | ------------- |
-| l3vpn.tar.gz  | A l3vpn NSO Service. |
-| enable-kpi-profiles.tar.gz  | NSO service which detects the network objects where the kpis have to be applied and automatically configures and provisions the kpis on the endpoints of the NSO service.  |
-| aux-info.tar.gz | Stores meta-data of the NSO l3vpn service for alert correlation.  |
+    | NSO Service Package  | Description |
+    | ------------- | ------------- |
+    | l3vpn.tar.gz  | A l3vpn NSO Service. |
+    | enable-kpi-profiles.tar.gz  | NSO service which detects the network objects where the kpis have to be applied and automatically configures and provisions the kpis on the endpoints of the NSO service.  |
+    | aux-info.tar.gz | Stores meta-data of the NSO l3vpn service for alert correlation.  |
 
 2.	Edit NSO_SERVICE_PATH in file kpi.py in the enable-kpi-profiles packages directory to show the path where all the packages are located in the ncs running directory.
 3.	Import the 2 plays and the playbook into Crosswork.
