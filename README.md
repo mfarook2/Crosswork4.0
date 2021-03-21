@@ -15,7 +15,7 @@ The use case makes health monitoring of the NSO service a seemless part of the l
     | enable-kpi-profiles.tar.gz  | NSO service which detects the network objects where the kpis have to be applied and automatically configures and provisions the kpis on the endpoints of the NSO service.  |
     | aux-info.tar.gz | Stores meta-data of the NSO l3vpn service for alert correlation.  |
 
-2.	Edit **NSO_SERVICE_PATH** in file **kpi.py** located in the **enable-kpi-profiles** packages directory to show the path where all the NSO packages are located in the ncs running directory.
+2.	[Edit **NSO_SERVICE_PATH**](#edit_nso_service_path) in file **kpi.py** located in the **enable-kpi-profiles** packages directory to show the path where all the NSO packages are located in the ncs running directory.
 3.	Import the following plays and the playbook into Crosswork.
 
     | Playbook and Plays | Description |
@@ -30,6 +30,6 @@ The use case makes health monitoring of the NSO service a seemless part of the l
     - Creation of a KPI profile with the KPI's relevant for the l3vpn service in Crosswork Health Insights.
     - Configuration of the KPIs on the endpoints of the l3vpn service which results in monitoring of the KPIs in Crosswork Health Insights
 
-<a name="install_nso_pacakges"></a>
-# Install NSO Packages
+<a name="edit_nso_service_path"></a>
+# Edit NSO_SERVICE_PATH
 <dadsdsad>
