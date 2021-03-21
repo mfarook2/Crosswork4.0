@@ -7,7 +7,7 @@ The use case makes health monitoring of the NSO service a seemless part of the l
 
 
 ## Installation
-1. 	[Install the following NSO packages](#install_nso_pacakges) in the ncs-run directory on the nso server
+1. 	[Install the following NSO packages](#https://developer.cisco.com/docs/nso/guides/#!nso-5-5-administration-guide-nso-packages) in the ncs-run directory on the nso server
 
     | NSO Service Package  | Description |
     | ------------- | ------------- |
