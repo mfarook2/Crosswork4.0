@@ -43,8 +43,8 @@ From the Crosswork UI, select **Network Automation --> Play List**, and click on
 ![image](https://user-images.githubusercontent.com/12874987/111920571-f7888900-8a4c-11eb-8b00-306c7c84853e.png)
 
 ## Import Playbook
-     - From the Crosswork UI, select **Network Automation --> Playbook List**, and click on import playbook
-       ![image](https://user-images.githubusercontent.com/12874987/111922300-471f8280-8a56-11eb-9227-e7e6cb07b018.png)
+     From the Crosswork UI, select **Network Automation --> Playbook List**, and click on import playbook
+     ![image](https://user-images.githubusercontent.com/12874987/111922300-471f8280-8a56-11eb-9227-e7e6cb07b018.png)
 
 
 <a name="run_playbook"></a>
