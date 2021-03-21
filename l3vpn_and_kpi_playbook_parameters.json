@@ -1,0 +1,39 @@
+{
+  "1": {
+    "params": {
+      "config": {
+        "l3vpn:l3vpn": [
+          {
+            "device": [
+              "Node-4",
+              "Node-5"
+            ],
+            "name": "l3vpn_1",
+            "vpn-number": 15
+          }
+        ]
+      },
+      "nso_instance": "nso201",
+      "operation": "configure"
+    }
+  },
+  "2": {
+    "params": {
+      "config": {
+        "enable-kpi-profiles:enable-kpi-profiles": [
+          {
+            "device": [
+              "Node-4",
+              "Node-5"
+            ],
+            "name": "kpi_1",
+            "serviceName": "l3vpn"
+          }
+        ]
+      },
+      "nso_instance": "nso201",
+      "operation": "configure"
+    }
+  }
+}
+
