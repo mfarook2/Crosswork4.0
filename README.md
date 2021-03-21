@@ -14,6 +14,11 @@ The use case makes health monitoring of the NSO service a seemless part of the l
 | enable-kpi-profiles.tar.gz  | NSO service which detects the network objects where the kpis have to be applied and automatically configures and provisions the kpis on the endpoints of the NSO service.  |
 | aux-info.tar.gz | Stores meta-data of the NSO l3vpn service for alert correlation.  |
 
+| Command | Description |
+| --- | --- |
+| git status | List all new or modified files |
+| git diff | Show file differences that haven't been staged |
+
 3. 	sda
 4. 	adas
 5. 	asd
