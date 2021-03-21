@@ -18,11 +18,11 @@ The use case makes health monitoring of the NSO service a seemless part of the l
 2.	Edit NSO_SERVICE_PATH in file kpi.py in the enable-kpi-profiles packages directory to show the path where all the packages are located in the ncs running directory.
 3.	Import the 2 plays and the playbook into Crosswork.
 
-| Playbook and Plays | Description |
-| ------------- | ------------- |
-| l3vpn_play.tgz  | l3vpn play which corresponds to the NSO l3vpn service. |
-| enable_kpi_profile_play.tgz  | Enable-kpi-profiles play corresponds to the NSO enable-kpi-service.  |
-| l3vpn_and_kpi_profile_playbook.tgz  | Playbook containing l3vpn play and enable-kpi-profiles play  |
+    | Playbook and Plays | Description |
+    | ------------- | ------------- |
+    | l3vpn_play.tgz  | l3vpn play which corresponds to the NSO l3vpn service. |
+    | enable_kpi_profile_play.tgz  | Enable-kpi-profiles play corresponds to the NSO enable-kpi-service.  |
+    | l3vpn_and_kpi_profile_playbook.tgz  | Playbook containing l3vpn play and enable-kpi-profiles play  |
 
 4. 	adas
 5. 	asd
