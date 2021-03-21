@@ -49,5 +49,7 @@ From the Crosswork UI, select **Network Automation --> Playbook List**, and clic
 
 <a name="run_playbook"></a>
 # Run Playbook
+From the Crosswork UI, select **Network Automation --> Run Playbook --> My Playbooks**, and select the playbook **l3vpn_and_kpi**
+
 
 
