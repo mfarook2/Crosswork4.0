@@ -29,20 +29,6 @@ The use case makes health monitoring of the NSO service a seemless part of the l
     - Deploying of the l3vpn service
     - Creation of a KPI profile with the KPI's relevant for the l3vpn service in Crosswork Health Insights.
     - Configuration of the KPIs on the endpoints of the l3vpn service which results in monitoring of the KPIs in Crosswork Health Insights
-6. [click here to jump to my anchor](#Install NSO pacakges)
-
-eqwe
-qe
-qeqwe
-qe
-qe
-qe
-qe
-q
-eq
-e
-qe
-qe
 
 <a name="install_nso_pacakges"></a>
 # Install NSO Packages
