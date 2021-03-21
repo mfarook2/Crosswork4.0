@@ -40,7 +40,7 @@ The use case makes health monitoring of the NSO service a seemless part of the l
 # Import Playbook and Play
 ## Import Play
 Form the Crosswork UI, select **Network Automation --> Play List**, and click on import plays
- na-103.jpg![image](https://user-images.githubusercontent.com/12874987/111920571-f7888900-8a4c-11eb-8b00-306c7c84853e.png)
+ ![image](https://user-images.githubusercontent.com/12874987/111920571-f7888900-8a4c-11eb-8b00-306c7c84853e.png)
 
 ## Import Playbook
 asdadds
