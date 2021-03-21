@@ -7,7 +7,7 @@ The use case makes health monitoring of the NSO service a seemless part of the l
 
 
 ## Installation
-1. 	[Install the following NSO packages](#Install NSO pacakges) in the ncs-run directory on the nso server
+1. 	[Install the following NSO packages](#install_nso_pacakges) in the ncs-run directory on the nso server
 
     | NSO Service Package  | Description |
     | ------------- | ------------- |
@@ -44,5 +44,5 @@ e
 qe
 qe
 
-<a name="Install NSO pacakges"></a>
+<a name="install_nso_pacakges"></a>
 # yes it works
