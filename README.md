@@ -35,3 +35,4 @@ The use case makes health monitoring of the NSO service a seemless part of the l
 
 Screen Shot 2021-03-21 at 12.38.56 PM![image](https://user-images.githubusercontent.com/12874987/111918476-775d2600-8a42-11eb-9c9e-169425067e6f.png)
 
+Screen Shot 2021-03-21 at 12.40.18 PM![image](https://user-images.githubusercontent.com/12874987/111918511-a6739780-8a42-11eb-92ed-4036088f1eea.png)
