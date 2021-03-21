@@ -24,7 +24,7 @@ The use case makes health monitoring of the NSO service a seemless part of the l
     | enable_kpi_profile_play.tgz  | Enable-kpi-profiles play corresponds to the NSO enable-kpi-service.  |
     | l3vpn_and_kpi_profile_playbook.tgz  | Playbook containing l3vpn play and enable-kpi-profiles play  |
 
-4. 	Run the playbook **l3vpn_and_kpi_profile** playbook. Import the parameters file **l3vpn_and_kpi_profile_parameters.json** file while running the playbook and modify the paramerters as required.
+4. 	[Run](#run_playbook) the playbook **l3vpn_and_kpi_profile** playbook. Import the parameters file **l3vpn_and_kpi_profile_parameters.json** file while running the playbook and modify the paramerters as required.
 5. 	Executing the **l3vpn_and_kpi_profile** playbook results in:
     - Deploying of the l3vpn service
     - Creation of a KPI profile with the KPI's relevant for the l3vpn service in Crosswork Health Insights.
@@ -47,7 +47,7 @@ From the Crosswork UI, select **Network Automation --> Playbook List**, and clic
 ![image](https://user-images.githubusercontent.com/12874987/111922300-471f8280-8a56-11eb-9227-e7e6cb07b018.png)
 
 
-
-
+<a name="run_playbook"></a>
+Run Playbook
 
 
