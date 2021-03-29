@@ -1,9 +1,9 @@
-# Crosswork4.0
+# Crosswork 4.0
 ## Integrated Health Monitoring and Provisioning of NSO services using Crosswork Change Automation and Health Insights
 
 The use case makes health monitoring of the NSO service a seemless part of the lifecycle of a NSO service. It involves:
   - Provisioning of NSO Service
-  - Automatically identifies the objects for the provisioned NSO service, derives the relevant set of KPIs and configures the KPIs on the endpoints of the NSo service.
+  - Automatically identifies the objects for the provisioned NSO service, derives the relevant set of KPIs and configures the KPIs on the endpoints of the NSO service.
 
 
 ## Installation
@@ -24,7 +24,7 @@ The use case makes health monitoring of the NSO service a seemless part of the l
     | enable_kpi_profile_play.tgz  | Enable-kpi-profiles play corresponds to the NSO enable-kpi-service.  |
     | l3vpn_and_kpi_profile_playbook.tgz  | Playbook containing l3vpn play and enable-kpi-profiles play  |
 
-4. 	[Run](#run_playbook) the playbook **l3vpn_and_kpi_profile** playbook. Import the parameters file **l3vpn_and_kpi_profile_parameters.json** file while running the playbook and modify the paramerters as required.
+4. 	[Run](#run_playbook) the playbook **l3vpn_and_kpi_profile** playbook. Import the parameters file **l3vpn_and_kpi_profile_parameters.json** file while running the playbook and modify the parameters as required.
 5. 	Executing the **l3vpn_and_kpi_profile** playbook results in:
     - Deploying the l3vpn service
     - Creation of a KPI profile with the KPI's relevant for the l3vpn service in Crosswork Health Insights.
@@ -37,10 +37,7 @@ The use case makes health monitoring of the NSO service a seemless part of the l
 ![na-101](https://user-images.githubusercontent.com/12874987/111919199-f738bf80-8a45-11eb-8174-0bda80af5b98.jpg)
 
 <a name="import_playbook_and_play"></a>
-# ***Import Playbook and Play***
-### ***Import Play***
-From the Crosswork UI, select **Network Automation --> Play List**, and click on import plays
-![image](https://user-images.githubusercontent.com/12874987/111920571-f7888900-8a4c-11eb-8b00-306c7c84853e.png)
+# ***Import Playbook***
 
 ### ***Import Playbook***
 From the Crosswork UI, select **Network Automation --> Playbook List**, and click on import playbook
